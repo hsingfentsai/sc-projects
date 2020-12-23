@@ -10,7 +10,7 @@ click [here](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztd
   - python symantics and syntax
 - [My photoshop](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/my_photoshop)
   - imange processing
-- [Pedestrian Removing Application]()
+- [Pedestrian Removing Application](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/pedestrian_removing_application)
   -image processing
 - [My Drawing](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/my_drawing)
   - animation
