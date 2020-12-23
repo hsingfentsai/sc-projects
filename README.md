@@ -12,7 +12,7 @@ click [here](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztd
 - imange processing\
 [Pedestrian Removing Application]()
 -image processing\
-[Breakout Game]()\
+[Breakout Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/break_out_game)\
 - animation & game designing\
 [Name Popularity Searching System]()
 - data structure
