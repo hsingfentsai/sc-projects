@@ -5,17 +5,17 @@ click [here](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztd
 
 ## Project Source Code
 - [Hangman Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/hangman_game)
-  - python symantics and syntax\
+  - python symantics and syntax
 - [Weather Monster]()
-  - python symantics and syntax\
-- [My pgotoshop]()
-  - imange processing\
+  - python symantics and syntax
+- [My photoshop](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/my_photoshop)
+  - imange processing
 - [Pedestrian Removing Application]()
-  -image processing\
+  -image processing
 - [My Drawing](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/my_drawing)
   - animation
-- [Breakout Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/break_out_game)\
-  - animation & game designing\
+- [Breakout Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/break_out_game)
+  - animation & game designing
 - [Name Popularity Searching System]()
   - data structure
 - [Boggle Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/boggle_game_solver)
