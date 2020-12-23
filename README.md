@@ -16,6 +16,6 @@ click [here](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztd
 - animation & game designing\
 [Name Popularity Searching System]()
 - data structure
-[Boggle Game]()
+[Boggle Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/boggle_game_solver)
 - recursive functions
 
