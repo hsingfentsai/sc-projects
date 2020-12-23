@@ -16,7 +16,7 @@ click [here](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztd
   - animation
 - [Breakout Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/break_out_game)
   - animation & game designing
-- [Name Popularity Searching System]()
+- [Name Popularity Searching System](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/name_popularity_searching_system)
   - data structure
 - [Boggle Game](https://github.com/hsingfentsai/sc-projects/tree/main/stanCode_Projects/boggle_game_solver)
   - recursive functions
